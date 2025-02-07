@@ -7,7 +7,7 @@ A collection of projects focusing on the AWS ecosystem, Bash scripts, IaC, CI/CD
 
 ### 2) Notifications Alert System
 - **[Blog](https://khairahscorner.hashnode.dev/leveraging-lambda-functions-with-amazon-sns-s3-eventbridge)**
-- **[GitHub README](https://github.com/khairahscorner/scalable-containerised-api)**
+- **[GitHub README](https://github.com/khairahscorner/notification_alerts?tab=readme-ov-file#notification-alerts-system)**
 
 ### 3) Containerised Web App/Dashboard
 - **[Blog](https://khairahscorner.hashnode.dev/build-and-deploy-weather-app-using-streamlit-and-aws-ecs-with-fargate)**
@@ -25,4 +25,4 @@ A collection of projects focusing on the AWS ecosystem, Bash scripts, IaC, CI/CD
 - **[GitHub](https://github.com/khairahscorner/frontend-engineer-portfolio)**
 
 ### 7) Nanodegree Projects
-- **[GitHub](https://github.com/khairahscorner/CDE-ND-Projects))**
+- **[GitHub](https://github.com/khairahscorner/CDE-ND-Projects)**
