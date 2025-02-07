@@ -3,7 +3,7 @@ A collection of projects focusing on the AWS ecosystem, Bash scripts, IaC, CI/CD
 
 ### 1) Architecting Scalable Containerised APIs
 - **Blog**: TBA
-- **[GitHub README](https://github.com/khairahscorner/scalable-containerised-api)**
+- **[GitHub README](https://github.com/khairahscorner/scalable-containerised-api?tab=readme-ov-file#architecting-scalable-containerised-apis)**
 
 ### 2) Notifications Alert System
 - **[Blog](https://khairahscorner.hashnode.dev/leveraging-lambda-functions-with-amazon-sns-s3-eventbridge)**
