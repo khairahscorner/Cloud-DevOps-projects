@@ -2,7 +2,7 @@
 A collection of projects focusing on the AWS ecosystem, Bash scripts, IaC, CI/CD, etc
 
 ### 1) Architecting Scalable Containerised APIs
-- **Blog**: TBA
+- **[Blog](https://khairahscorner.hashnode.dev/deploying-scalable-apis-with-terraform-and-github-actions)**
 - **[GitHub README](https://github.com/khairahscorner/scalable-containerised-api?tab=readme-ov-file#architecting-scalable-containerised-apis)**
 
 ### 2) Notifications Alert System
